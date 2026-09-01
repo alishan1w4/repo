@@ -30,7 +30,7 @@ section
     justify-content: center;
     align-items: center;
     flex-direction: column; 
-    background-color: rgb(238, 241, 241);
+    /* background-color: rgb(238, 241, 241); */
    border-bottom: 10px;
 }
 .food{
@@ -213,7 +213,7 @@ color: rgb(10, 54, 93);
 .contact-form input,
 .contact-form textarea{
     width: 100%;
-    padding: 10px 
+    padding: 10px ;
     margin-bottom: 15px;
 }
 .contact-form button{
@@ -222,3 +222,22 @@ background-color: rgb(180, 108, 1);
 color: aliceblue;
 border: none;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .h-sec {
+    background-image: url('./fruit2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
